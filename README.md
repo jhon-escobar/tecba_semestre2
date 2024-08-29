@@ -5,3 +5,6 @@ nombre y apellido: Jhon Escobar
 
 lab 1
 
+sabias que jesucristo en sumo sacerdote como nuestro padre celestial
+
+
