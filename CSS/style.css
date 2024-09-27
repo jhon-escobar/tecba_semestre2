@@ -1,4 +1,37 @@
-h1 {font-size: 200px;
+h1 {font-size: 50px;
     color: black;
-    background-color: orange;
+    background-color: rgb(250, 97, 2);
     }
+h4 {font-size: 30px;
+    color: black;
+    background-color: rgb(250, 97, 2);
+    text-align:center ;
+
+}
+a {
+    font-size: 50px;
+    color: black;
+    background-color: rgb(250, 97, 2) ;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    color: black;
+    background-color: rgb(250, 97, 2);
+    text-align: center;
+}
+body {
+    background-color: rgb(4, 4, 104);
+}
+h3 {font-size: 20px;
+    color: black;
+    background-color: rgb(250, 97, 2);
+    text-align: center;
+
+
+}
+ul {font-size: 20px;
+    background-color: rgb(250, 97, 2);
+    align-items:center ;
+
+}
