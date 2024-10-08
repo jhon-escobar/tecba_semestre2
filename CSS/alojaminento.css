@@ -1,10 +1,10 @@
 .telf {
     background-color: aqua;
 }
-.body{
-    background-color: blue;
+body{
+    background-color: rgb(8, 86, 97);
 }
-.nav{
+header{
     background-color: rgb(196, 210, 210);
    
 }
@@ -14,7 +14,16 @@
 }
 .sec {
     margin: 20px;
-}\
+}
 .jopi {
     background-color: rgb(165, 165, 196);
+    font-size: 40px;
+
+}
+main {
+    background-color: rgb(26, 177, 211);
+}
+section {
+    background-color: rgb(17, 117, 150);
+
 }
