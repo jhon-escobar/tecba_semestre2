@@ -6,7 +6,9 @@ body{
 }
 header{
     background-color: rgb(196, 210, 210);
-   
+    list-style-type: none;
+    padding: 20px;   
+     margin: 15px;
 }
 .pipipi {
     background-color: aqua;
