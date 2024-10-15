@@ -52,6 +52,7 @@ h3{
 .entrada{
     text-align: right;
 }
-img{
+.header{
+    justify-content: flex-start;
     
 }
