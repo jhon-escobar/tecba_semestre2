@@ -47,5 +47,11 @@ h3{
 }
 .navegador{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between
+}
+.entrada{
+    text-align: right;
+}
+img{
+    
 }
