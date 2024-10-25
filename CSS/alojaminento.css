@@ -1,8 +1,11 @@
 .telf {
     background-color: aqua;
+    
 }
 body{
     background-color: rgb(8, 86, 97);
+    margin: 0%;
+    padding: 0%;
 }
 header{
     background-color: rgb(196, 210, 210);
@@ -11,7 +14,7 @@ header{
      margin: 15px;
 }
 .pipipi {
-    background-color: aqua;
+    background-color: rgb(17, 117, 150);
     text-align: center;
 }
 .sec {
