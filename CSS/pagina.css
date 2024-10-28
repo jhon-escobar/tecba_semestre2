@@ -1,5 +1,29 @@
-principal
-header{
+/*principal header*/
+.barra1{
+    background-color:rgb(9, 9, 82) ;
     list-style-type: none;
-    background-color: rgb(5, 5, 74);
+    color: white;
+    padding: 10px;
 }
+
+.barra2{
+    list-style-type: none;
+    background-color: rgb(11, 11, 140);
+    color: white;
+    padding: 10px;
+    
+ }
+.nav1{
+    display: flex;
+    justify-content: space-between;
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: rgb(26, 28, 129)
+      
+}
+/*body*/
+/*main*/
