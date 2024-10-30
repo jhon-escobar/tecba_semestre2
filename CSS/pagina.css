@@ -4,26 +4,59 @@
     list-style-type: none;
     color: white;
     padding: 10px;
+   display: flex;
+
 }
 
 .barra2{
     list-style-type: none;
-    background-color: rgb(11, 11, 140);
+    background-color: white;
     color: white;
-    padding: 10px;
-    
+    padding: 20px;
+    margin: none
+    ;
+
  }
 .nav1{
     display: flex;
     justify-content: space-between;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
 }
 .nav2{
     display: flex;
     justify-content: space-between;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+
 }
 body{
     background-color: rgb(26, 28, 129)
       
 }
+.carter{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+
+}
 /*body*/
+.fondo_principal{
+    background-image:('imagenes-de-galaxia-real-960bplav0aw76l17 (1).jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    position: relative;
+}
+.fondo_principal{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 /*main*/
