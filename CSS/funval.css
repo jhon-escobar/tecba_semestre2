@@ -1,0 +1,21 @@
+body{
+    background-color:palegreen;
+}
+h1{text-align: center;
+    color: purple;
+}
+h3{
+    text-align: center;
+    color: green;
+}
+h2{text-align: center;
+    color: brown;
+
+}
+footer{
+    text-align:end ;
+}
+img{align-items: center;}
+.negro{
+    color: black;
+}
