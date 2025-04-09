@@ -17,12 +17,20 @@
 # lista.remove('coco')
 # print(lista)
 
-def maximo_numero(lista):
+# def maximo_numero(lista):
+#     if not lista:
+#          return None
+#     return max(lista)
+
+# numeros = [3, 9, 10, 45,888]
+# resultado = maximo_numero(numeros)
+# print(f"el valor maximo de la lista es ;{resultado}")
+
+def minimo_numero(lista):
     if not lista:
          return None
-    return max(lista)
+    return min(lista)
 
 numeros = [3, 9, 10, 45,888]
-resultado = maximo_numero(numeros)
+resultado = minimo_numero(numeros)
 print(f"el valor maximo de la lista es ;{resultado}")
-
